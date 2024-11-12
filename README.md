@@ -21,6 +21,7 @@
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/Visual Studio Code-grey.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
     <img align="center" src="https://img.shields.io/badge/GitHub-grey.svg?style=for-the-badge&logo=github&logoColor=181717" />
+    <img align="center" src="https://img.shields.io/badge/Discord-grey.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
 </p>
 <br/>
 
