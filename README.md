@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Jay's%20GitHub!%20🥳&fontSize=40&animation=twinkling)
 
-<h3 align="center">💻 Front Tech Stack 💻</h3>
+<h4 align="center">💻 Front Tech Stack 💻</h4>
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=html&logoColor=red" />
     <img align="center" src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=css&logoColor=yellow" />
