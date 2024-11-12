@@ -3,18 +3,18 @@
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/HTML-white.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
-    <img align="center" src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
-    <img align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/CSS-whitea.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <img align="center" src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/TypeScript-white.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 </p>
 <br/>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-    <img align="center" src="https://img.shields.io/badge/FireBase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
-    <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/FireBase-white.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
+    <img align="center" src="https://img.shields.io/badge/react-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/react-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 <br/>
 
