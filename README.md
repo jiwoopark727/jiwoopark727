@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=110&section=header&text=Welcome%20to%20Jay's%20GitHub!&fontSize=25&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Welcome%20to%20Jay's%20GitHub!&fontSize=25&animation=twinkling)
 
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <p align="center">
@@ -7,8 +7,9 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/styled components-20232a.svg?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
+    <img align="center" src="https://img.shields.io/badge/Tailwind CSS-20232a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4" />
 </p>
-<br/>
 
 <h3 align="center">✨ State Management Tech Stack ✨</h3>
 <p align="center">
@@ -16,7 +17,6 @@
     <img align="center" src="https://img.shields.io/badge/Zustand-20232a.svg?style=for-the-badge&logo=zustand&logoColor=1572B6" />
     <img align="center" src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />
 </p>
-<br/>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
@@ -24,7 +24,6 @@
     <img align="center" src="https://img.shields.io/badge/FireBase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
     <img align="center" src="https://img.shields.io/badge/Maria DB-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=003545" />
 </p>
-<br/>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
@@ -34,7 +33,6 @@
     <img align="center" src="https://img.shields.io/badge/Discord-20232a.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
     <img align="center" src="https://img.shields.io/badge/Slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </p>
-<br/>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
@@ -42,7 +40,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical" />
   </a>
 </p>
-<br/>
 
 <h3 align="center">🔍 My Git Stats 🔍</h3>
 <p align="center">
@@ -50,12 +47,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwoopark727&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=true&include_all_commits=false&theme=radical" />
   </a>
 </p>
-
-
-<br/>
-
-
-
 
 <!--
 **jiwoopark727/jiwoopark727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
