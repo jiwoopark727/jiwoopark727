@@ -7,6 +7,7 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <br/>
+    <br/>
     <img align="center" src="https://img.shields.io/badge/TypeScript-white.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
     <img align="center" src="https://img.shields.io/badge/styled components-white.svg?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
     <img align="center" src="https://img.shields.io/badge/Tailwind CSS-white.svg?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4" />
@@ -32,6 +33,8 @@
     <img align="center" src="https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&logo=notion&logoColor=000000" />
     <img align="center" src="https://img.shields.io/badge/Figma-white.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
     <img align="center" src="https://img.shields.io/badge/VScode-white.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
+    <br/>
+    <br/>
     <img align="center" src="https://img.shields.io/badge/Eclipse IDE-white.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
     <img align="center" src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=github&logoColor=181717" />
     <img align="center" src="https://img.shields.io/badge/Discord-white.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
