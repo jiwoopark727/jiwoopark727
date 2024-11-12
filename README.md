@@ -3,26 +3,26 @@
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
-    <img align="center" src="https://img.shields.io/badge/CSS-lightgrey.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
-    <img align="center" src="https://img.shields.io/badge/JavaScript-lightgrey.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" src="https://img.shields.io/badge/React-lightgrey.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" src="https://img.shields.io/badge/TypeScript-lightgrey.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <img align="center" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 </p>
 <br/>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/MySQL-lightgrey.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-    <img align="center" src="https://img.shields.io/badge/FireBase-lightgrey.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
+    <img align="center" src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/FireBase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
 </p>
 <br/>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/Visual Studio Code-lightgrey.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
-    <img align="center" src="https://img.shields.io/badge/GitHub-lightgrey.svg?style=for-the-badge&logo=github&logoColor=181717" />
-    <img align="center" src="https://img.shields.io/badge/Discord-lightgrey.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
-        <img align="center" src="https://img.shields.io/badge/Slack-lightgrey.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
+    <img align="center" src="https://img.shields.io/badge/Visual Studio Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
+    <img align="center" src="https://img.shields.io/badge/Discord-20232a.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
+        <img align="center" src="https://img.shields.io/badge/Slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </p>
 <br/>
 
