@@ -10,6 +10,16 @@
 </p>
 <br/>
 
+<h3 align="center">💻 Front Tech Stack 💻</h3>
+<p align="center">
+    <img align="center" src="https://img.shields.io/badge/Recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" />
+    <img align="center" src="https://img.shields.io/badge/Zustand-20232a.svg?style=for-the-badge&logo=zustand&logoColor=1572B6" />
+    <img align="center" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+</p>
+<br/>
+
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
