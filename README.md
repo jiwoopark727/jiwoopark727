@@ -2,7 +2,7 @@
 
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=html&logoColor=red" />
+    <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=html/css&logoColor=red" />
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=css&logoColor=61DAFB" />
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
