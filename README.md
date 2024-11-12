@@ -5,11 +5,32 @@
   <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
+    <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+    <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+    <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+    <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
 </span>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <span align="center">
   <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+    <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+    <a href="https://github.com/jiwoopark727">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </span>
@@ -21,7 +42,7 @@
   </a>
 </p>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
+<h3 align="center">🔍 My Git Stats 🔍</h3>
 <p align="center">
   <a href="https://github.com/jiwoopark727">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwoopark727&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=true&include_all_commits=false&theme=radical" />
