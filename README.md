@@ -11,13 +11,13 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/jiwoopark727">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=node&hide=java" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=java" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/jiwoopark727">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwoopark727&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=true&include_all_commits=false&theme=node" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwoopark727&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=true&include_all_commits=false&theme=radical" />
   </a>
 </p>
 
