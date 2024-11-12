@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=capsule%20render&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Jay's%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=40&descAlignY=51&descAlign=62"/>
 </p>
 
 <h3 align="center">💻 Front Tech Stack 💻</h3>
