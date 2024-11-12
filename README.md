@@ -7,6 +7,7 @@
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
+<br/>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
@@ -15,6 +16,7 @@
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
+<br/>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
@@ -22,6 +24,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=java" />
   </a>
 </p>
+<br/>
 
 <h3 align="center">🔍 My Git Stats 🔍</h3>
 <p align="center">
