@@ -2,36 +2,36 @@
 
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
-    <img align="center" src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
-    <img align="center" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
-    <img align="center" src="https://img.shields.io/badge/styled components-20232a.svg?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
-    <img align="center" src="https://img.shields.io/badge/Tailwind CSS-20232a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4" />
+    <img align="center" src="https://img.shields.io/badge/HTML-white.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
+    <img align="center" src="https://img.shields.io/badge/CSS-white.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <img align="center" src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/TypeScript-white.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/styled components-white.svg?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
+    <img align="center" src="https://img.shields.io/badge/Tailwind CSS-white.svg?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4" />
 </p>
 
 <h3 align="center">✨ State Management Tech Stack ✨</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/Recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" />
-    <img align="center" src="https://img.shields.io/badge/Zustand-20232a.svg?style=for-the-badge&logo=zustand&logoColor=1572B6" />
-    <img align="center" src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />
+    <img align="center" src="https://img.shields.io/badge/Recoil-white.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" />
+    <img align="center" src="https://img.shields.io/badge/Zustand-white.svg?style=for-the-badge&logo=zustand&logoColor=1572B6" />
+    <img align="center" src="https://img.shields.io/badge/Redux-white.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />
 </p>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/My SQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-    <img align="center" src="https://img.shields.io/badge/FireBase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
-    <img align="center" src="https://img.shields.io/badge/Maria DB-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=003545" />
+    <img align="center" src="https://img.shields.io/badge/My SQL-white.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/FireBase-white.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
+    <img align="center" src="https://img.shields.io/badge/Maria DB-white.svg?style=for-the-badge&logo=mariadb&logoColor=003545" />
 </p>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/VS Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
-    <img align="center" src="https://img.shields.io/badge/Eclipse IDE-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
-    <img align="center" src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
-    <img align="center" src="https://img.shields.io/badge/Discord-20232a.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
-    <img align="center" src="https://img.shields.io/badge/Slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
+    <img align="center" src="https://img.shields.io/badge/VS Code-white.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/Eclipse IDE-white.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=github&logoColor=181717" />
+    <img align="center" src="https://img.shields.io/badge/Discord-white.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
+    <img align="center" src="https://img.shields.io/badge/Slack-white.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </p>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
