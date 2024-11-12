@@ -2,37 +2,19 @@
 
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <span align="center">
-  <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
 </span>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <span align="center">
-  <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-    <a href="https://github.com/jiwoopark727">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
 </span>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
