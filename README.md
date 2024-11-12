@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Jay's%20GitHub!%20🥳&fontSize=40&animation=twinkling)
+<div>
+  <span>Front Stack</span>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoopark727&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact)
 
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 
 <!--
