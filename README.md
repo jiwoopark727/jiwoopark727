@@ -19,7 +19,7 @@
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/VS code-white.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/VScode-white.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
     <img align="center" src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
 </p>
 <br/>
