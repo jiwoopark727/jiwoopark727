@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome%20to%20Jay's%20GitHub!&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Jay's%20GitHub!&fontSize=40&animation=twinkling&marginBottom=40)
 
 <h3 align="center">💻 Front Tech Stack 💻</h3>
 <p align="center">
