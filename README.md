@@ -20,17 +20,18 @@
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/Visual Studio Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/VS Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/Eclipse IDE-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
     <img align="center" src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
     <img align="center" src="https://img.shields.io/badge/Discord-20232a.svg?style=for-the-badge&logo=discord&logoColor=5865F2" />
-        <img align="center" src="https://img.shields.io/badge/Slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
+    <img align="center" src="https://img.shields.io/badge/Slack-20232a.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </p>
 <br/>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/jiwoopark727">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=java" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical" />
   </a>
 </p>
 <br/>
