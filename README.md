@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-<h3 align="center">💻 Front Tech Stack 💻</h3>
+<h3 align="center">✨ State Management Tech Stack ✨</h3>
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/Recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" />
     <img align="center" src="https://img.shields.io/badge/Zustand-20232a.svg?style=for-the-badge&logo=zustand&logoColor=1572B6" />
