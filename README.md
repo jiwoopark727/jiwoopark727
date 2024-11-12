@@ -20,9 +20,9 @@
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
 <p align="center">
-    <img align="center" src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+    <img align="center" src="https://img.shields.io/badge/My SQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
     <img align="center" src="https://img.shields.io/badge/FireBase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
-    <img align="center" src="https://img.shields.io/badge/MariaDB-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=003545" />
+    <img align="center" src="https://img.shields.io/badge/Maria DB-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=003545" />
 </p>
 <br/>
 
