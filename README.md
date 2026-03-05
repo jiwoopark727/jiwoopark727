@@ -44,7 +44,7 @@
     <img align="center" src="https://img.shields.io/badge/Slack-white.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />
 </p>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<!-- <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/jiwoopark727">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoopark727&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical" />
@@ -56,7 +56,7 @@
   <a href="https://github.com/jiwoopark727">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwoopark727&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=true&include_all_commits=false&theme=radical" />
   </a>
-</p>
+</p> -->
 
 <!--
 **jiwoopark727/jiwoopark727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
